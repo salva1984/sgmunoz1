@@ -19,6 +19,11 @@
   Herramienta para descargar todos los archivos (pdfs, docx, pptx, etc) de un curso desde aula virtual.  
   Tecnologías: __Python, Requests, Selenium__.  
   ![Estado](https://img.shields.io/badge/estado-En%20desarrollo-orange)
+
+* [Proyecto Uno Android](https://github.com/salva1984/Proyecto-unoAndroid):  
+  Aplicación desarrollada para Android para el curso de Programacion Orientada a Objetos que implementa el juego de cartas UNO en Android.  
+  Tecnologías: **Android, Java, Android Studio**  
+  ![Estado](https://img.shields.io/badge/estado-Terminado-brightgreen)
   
 ---
 
