@@ -12,10 +12,12 @@
 
 * [ChronoBar](https://github.com/salva1984/chronobar):  
   App para Android que contiene un widget que muestra el porcentaje hacia el final del año, mes, semana y día.  
+  Tecnologías: __Kotlin, Android Studio__.    
   ![Estado](https://img.shields.io/badge/estado-En%20desarrollo-orange)
 
 * [AVSync](https://github.com/salva1984/AVSync):  
   Herramienta para descargar todos los archivos (pdfs, docx, pptx, etc) de un curso desde aula virtual.  
+  Tecnologías: __Python, Requests, Selenium__.  
   ![Estado](https://img.shields.io/badge/estado-En%20desarrollo-orange)
   
 ---
