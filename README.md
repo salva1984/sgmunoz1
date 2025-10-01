@@ -8,6 +8,14 @@
 
 ---
 
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes de programación:** Python, Java, Kotlin  
+- **Automatización / Web Scraping:** Selenium  
+- **Desarrollo Android:** Android Studio
+
+---
+
 ## 🔧 Proyectos
 
 * [ChronoBar](https://github.com/salva1984/chronobar):  
