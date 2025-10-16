@@ -1,6 +1,6 @@
 # Salvador Muñoz
 
-🎓 Estudiante de Ingeniería en Computación
+🎓 Estudiante de Ingeniería en Computación.
 
 💻 Interesado en el Software Libre, Privacidad 
 
